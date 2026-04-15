@@ -32,7 +32,7 @@
 
 Let's build something great together.
 
-📫 **Reach me:** [github.com/nebiyuu](https://github.com/nebiyuu)
+📫 **Reach me:** nebiyuessayas01@gmail.com
 
 ---
 
