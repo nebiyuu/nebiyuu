@@ -10,7 +10,7 @@
 | Technology | Use |
 |---|---|
 | **Node.js** | Backend APIs, servers, real-time systems |
-| **Python** | Automation, scripting, data, exploration |
+| **Python** | Machine learning, AI, data, exploration, Automation, scripting,  |
 | **Git / GitHub** | Version control, open source |
 
 ---
